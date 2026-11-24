@@ -1,0 +1,16 @@
+{
+  "servers": [
+    {
+      "name": "Midgar",
+      "ip": "187.77.31.54",
+      "port": 7072,
+      "httpPort": 8082
+    },
+    {
+      "name": "Localhost",
+      "ip": "localhost",
+      "port": 7072,
+      "httpPort": 8082
+    }
+  ]
+}
