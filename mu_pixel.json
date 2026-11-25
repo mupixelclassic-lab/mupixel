@@ -8,8 +8,8 @@
       "isTestServer": true
     },
     {
-      "name": "Localhost",
-      "ip": "localhost",
+      "name": "Test",
+      "ip": "192.168.0.217",
       "port": 7770,
       "httpPort": 8082
     }
